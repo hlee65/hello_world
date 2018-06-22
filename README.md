@@ -1,3 +1,3 @@
 # hello_world
 github guide
-following github guide.
+following github guide
